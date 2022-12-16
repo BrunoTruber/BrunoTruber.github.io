@@ -1,0 +1,17 @@
+.container {
+    margin: 20px 0;
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    row-gap: 5px;  
+}
+
+.imagens{
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.bloco1, .bloco2, .bloco3, .rodape{
+    text-align: center;
+}
